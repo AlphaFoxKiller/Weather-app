@@ -4,3 +4,4 @@
 3) Build and run.....
 
 This app gives different weather information of the place entered by user.
+Uses OpenWeatherMap's api (http://openweathermap.org) to get data.
